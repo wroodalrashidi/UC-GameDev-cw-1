@@ -24,6 +24,11 @@ Console.WriteLine(ageDifference);
 heroHeight = heroHeight + 5;
 Console.WriteLine(heroHeight);
 
+villainSuperPower = "none";
+
+
+ Console.WriteLine("I am " + heroHeight + " meters tall ,  I am " + heroAge + " years old. And my super power is a " + heroSuperPower);
+ Console.WriteLine("I am " + vililanHeight + " meters tall ,  I am " + villainAge + " years old. And my super power is " + villainSuperPower);
 
 
 
